@@ -1,0 +1,3 @@
+[submodule "project/lib/libft"]
+	path = project/lib/libft
+	url = https://github.com/kichkiro/libft.git
